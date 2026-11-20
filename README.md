@@ -1,5 +1,16 @@
 # Smart Home Management System (Java OOP)
 
+**Submitted To:** Sir Gulshair Lagari
+
+**Group Members:**
+-Sana Hameed (Roll No:2k26/csm/111 )
+- [Yahan Dusri Ladki Ka Naam Likhein] (Roll No: 2k26/csm/114)
+
+---
+*(Description)*
+Console-based Smart Home Management System built using **Core Java** and **Object-Oriented Programming**. It runs in the terminal and simulates home devices and sensors. It does not connect to real hardware.
+# Smart Home Management System (Java OOP)
+
 Console-based Smart Home Management System built using Core Java and Object-Oriented Programming.
 Runs entirely in the terminal; simulates home devices and sensors (no real hardware).
 
