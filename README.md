@@ -6,9 +6,7 @@
 -Sana Hameed (Roll No:2k26/csm/111 )
 -Sawera Aijaz (Roll No: 2k26/csm/114)
 
----
-*(Description)*
-Console-based Smart Home Management System built using **Core Java** and **Object-Oriented Programming**. It runs in the terminal and simulates home devices and sensors. It does not connect to real hardware.
+
 # Smart Home Management System (Java OOP)
 
 Console-based Smart Home Management System built using Core Java and Object-Oriented Programming.
